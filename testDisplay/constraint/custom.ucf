@@ -1,0 +1,12 @@
+NET "display_seg<0>" LOC = P51 | IOSTANDARD = LVTTL;
+NET "display_seg<1>" LOC = P41 | IOSTANDARD = LVTTL;
+NET "display_seg<2>" LOC = P35 | IOSTANDARD = LVTTL;
+NET "display_seg<3>" LOC = P33 | IOSTANDARD = LVTTL;
+NET "display_seg<4>" LOC = P30 | IOSTANDARD = LVTTL;
+NET "display_seg<5>" LOC = P27 | IOSTANDARD = LVTTL;
+NET "display_seg<6>" LOC = P24 | IOSTANDARD = LVTTL;
+NET "display_seg<7>" LOC = P22 | IOSTANDARD = LVTTL;
+
+NET "display_sel<0>" LOC = 124 | IOSTANDARD = LVTTL;
+NET "display_sel<1>" LOC = 127 | IOSTANDARD = LVTTL;
+NET "display_sel<2>" LOC = 132 | IOSTANDARD = LVTTL;
